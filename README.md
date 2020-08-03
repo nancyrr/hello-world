@@ -1,2 +1,2 @@
 # hello-world
-Try githubfor the first time.
+Try github for the first time.
